@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-请求头headers处理:设置一下请求头中的User-Agent域和Referer域信息
+请求头headers处理:设置一下请求头中的User-Agent域和Referer域信息  测试一下
 
 import urllib
 import urllib2
